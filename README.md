@@ -12,3 +12,5 @@ Analysis Files:
 - 01_NationalAnalysis.do: Uses saved cleaned data to perform longer run analysis and decomposition exercise
 - 02_AnalysisByAOR.do: Creates series for term 1 and term 2 for the number of arrests by apprehension method by AOR, and saves for final plotting
 - 03_PlotByAOR.R: Uses data saved in 02_AnalysisByAOR.do to create final plot
+
+[Download Data](https://drive.google.com/drive/folders/1FC-xp2FzLacQlFNHjarVC62uaLLtmavv?usp=sharing)
