@@ -1,4 +1,4 @@
-# ICE-Arrests-Varition-in-Targeting
+# ICE-Arrests-Variation-in-Targeting
 
 Files for the replication of "ICE Arrests, 2015-2026: Variation in Targeting, Method, and Geography" by Chloe N. East, Caitlin Patler, and Elizabeth Cox 
 
